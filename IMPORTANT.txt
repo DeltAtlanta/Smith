@@ -1,0 +1,3 @@
+il faut taper:
+1. cd smartapp
+2. puis npm run dev
